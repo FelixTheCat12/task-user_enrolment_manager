@@ -8,3 +8,6 @@ vendor
 # Jetbrains and VSCode configs
 .idea
 .vscode
+
+/data
+/logs

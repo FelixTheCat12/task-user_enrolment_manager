@@ -33,6 +33,12 @@ You’ve been provided with a simple PHP framework simulating Moodle-like users 
 
 ## 📦 Setup
 
+"April.Porter@didasko-online.com" <
+April.Porter@didasko-online.com
+Andrew.madden@didasko-online.com
+>
+"Andrew.madden@didasko-online.com" <
+>
 1. **Install dependencies**
    Run the following to install PHPUnit:
 

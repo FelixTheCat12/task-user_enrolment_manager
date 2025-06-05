@@ -11,5 +11,8 @@
     "psr-4": {
       "Tests\\": "tests/"
     }
+  },
+  "require": {
+    "nesbot/carbon": "^3.9"
   }
 }
